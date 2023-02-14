@@ -9,7 +9,7 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/appscode/go v0.0.0-20200323182826-54e98e09185a
 	github.com/blang/semver v3.5.1+incompatible // indirect
-	github.com/gogo/protobuf v1.3.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/google/go-cmp v0.4.0 // indirect
@@ -31,10 +31,7 @@ require (
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
 	go.uber.org/atomic v1.5.0 // indirect
-	golang.org/x/crypto v0.0.0-20200429183012-4b2356b1ed79 // indirect
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e // indirect
-	golang.org/x/sys v0.0.0-20200509044756-6aff5f38e54f // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	gomodules.xyz/cert v1.0.3
 	google.golang.org/appengine v1.6.5 // indirect
